@@ -143,5 +143,11 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/node
 
-*.json
+.json
 *.sqlite
+buildings.json
+classrooms.json
+subjects.json
+teachers.json
+schedule.json
+groups.json
