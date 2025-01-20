@@ -56,7 +56,7 @@ npm install
 Execute the script to fetch data, process it, and populate the database:
 
 ```bash
-node script.js
+node index.js
 ```
 
 ---
